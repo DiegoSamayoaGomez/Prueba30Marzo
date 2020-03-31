@@ -4,11 +4,7 @@ public class Repositorio {
 
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Juan Amilcar Larias Méndez");
-       System.out.println("Sector 3, cambote zona 11, Huehuetenango");
-       System.out.println("5737-5464");
-        
-        
+             
          System.out.println("Diego Alejandro Samayoa Gómez");
         System.out.println("Cambote Zona 11, Huehutenango");
         System.out.println("3130-8640");
@@ -23,6 +19,10 @@ public class Repositorio {
         System.out.println("Nombre: Denilson Baltazar Ramírez Andrés");
         System.out.println("Direccion: Barillas Zona 6");
         System.out.println("Telefono: 46400006");
+        
+        Sistema . a cabo . println ( " Juan Amilcar Larias Méndez " );
+       Sistema . a cabo . println ( " Sector 3, cambote zona 11, Huehuetenango " );
+       Sistema . a cabo . println ( " 5737-5464 " );        
     }
     
 }
