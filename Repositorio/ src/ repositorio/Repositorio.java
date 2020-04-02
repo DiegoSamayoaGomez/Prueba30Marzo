@@ -24,7 +24,12 @@ public class Repositorio {
         
         System.out. println ( " Juan Amilcar Larias Méndez " );
         System.out. println ( " Sector 3, cambote zona 11, Huehuetenango " );
-        System.out. println ( " 5737-5464 " );        
+        System.out. println ( " 5737-5464 " );
+        
+        System.out.println("Daniel Alonzo Herrera ");
+        System.out.println("7a. AVE 9-81 Zona 5, Huehuetenango, Huehuetenango ");
+        System.out.println("3059-6671 ");
+        
     }
     
 }
